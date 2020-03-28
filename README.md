@@ -8,12 +8,14 @@
 
 # Linguagem, frameworks e ferramentas utilizadas
 
-- ReactJS
-- Node.js 
+- React Native
 - Hooks (useState, useEffect)
+- React Navigation
+- Node.js
+- Expo
+- Expo/vector-icons
+- Mail Composer (para abrir o serviço de e-mail dentro do app)
 - Express
-- React-icons
-- Font Roboto (da Google)
 - Axios (para as requisições com o nodejs)
 - Intl (internacionalização pra moeda brasileira)
 
